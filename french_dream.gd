@@ -17,6 +17,7 @@ var option_language : Node
 
 func _ready() -> void:
 	get_tree().node_added.connect(on_node_added)
+	game.config_updated.connect(_on_apply_config)
 
 func on_node_added(node: Node):
 	match node.name:
@@ -33,8 +34,11 @@ func on_node_added(node: Node):
 					option_language.disconnect(signal_connection.signal.get_name(), signal_connection.callable)
 			option_language.connect("pressed", _on_option_language_pressed)
 
+func _on_apply_config() -> void:
+	match config.language:
+		4: TranslationServer.set_locale("fr")
+
 func _on_option_language_pressed() -> void :
-	print("Good Victory !")
 	config.language = (config.language + 1) % 5
 	pause_menu.call("_upd_option_language")
 	game.apply_config()
