@@ -1,0 +1,6 @@
+[gd_resource type="AtlasTexture" format=3 uid="uid://ceda8ijv8yxmd"]
+
+[ext_resource type="Texture2D" uid="uid://dio7rr5n1oqw7" path="res://mods-unpacked/totobono4-french_dream/textures/flag-fr.png" id="1_u4d5m"]
+
+[resource]
+atlas = ExtResource("1_u4d5m")
