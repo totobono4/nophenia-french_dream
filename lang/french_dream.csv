@@ -1,31 +1,31 @@
 key,fr
 world_chess,Échecs
 menu_option_phone_brightness,Luminosité LCD
-<!MissingKey:2:play flute>,play flute
-world_background,Background
+<!MissingKey:2:play flute>,jouer flûte
+world_background,Arrière-plan
 world_greenhouse,Jardin botanique
 world_vision,Vision
 wallpaper_mars,Mars
-wallpaper_puddle,Puddle
+wallpaper_puddle,Flaque
 credits_dreamers,rêveurs
 wallpaper_architecture,Architecture
 phone_searching_signal,Recherche...
 wallpaper_flowers,Fleurs
-menu_new_save_warning_info,Votre progression actuelle sera réinitialisée.
+menu_new_save_warning_info,Ta progression actuelle sera réinitialisée.
 end_continued,à suivre...
 world_underwater,Profondeurs
-world_playspace,Playspace
+world_playspace,Aire de jeu
 credits_japanese,japonais
 menu_nav_ok,OK
 <!MissingKey:18:Blocks>,Blocs
-menu_audio_footstep,Footsteps
+menu_audio_footstep,Pas
 keyboard_gamepad_left,gauche
 menu_setting_display,Affichage
 <!MissingKey:22:the “i’m proud to have made something <3” award>,La récompense “Je suis fier d'avoir créé quelque-chose <3”
 wallpaper_jellyfish,Méduse
-menu_exit_end_game_alt,End Her
+menu_exit_end_game_alt,En finir avec Elle
 menu_audio_mono_sound,Son Mono
-<!MissingKey:26:flute>,flute
+<!MissingKey:26:flute>,flûte
 world_neighbourhood,Voisinage
 menu_audio_music,Musique
 wallpaper_beach,Plage
@@ -37,15 +37,15 @@ there is …
 
 ...a dedicated sit [C] and howl [H] button because wolfgirls are super cool
 
-other controls
+autres contrôles
 
-- move : [ WASD ] : [↑ ← ↓ →]
+- bouger : [ZQSD] : [↑ ← ↓ →]
 
-- run : [ CTRL ] : [SHIFT]
+- courir : [ CTRL ] : [SHIFT]
 
-- jump : [ SPACE ]
+- sauter : [ESPACE]
 
-- interact : [ F ] : [Z] : [ENTER] : [Left Click]
+- interagir : [ F ] : [Z] : [ENTRER] : [Clic Gauche]
 
 - pause : [ P ] : [ESC]
 
@@ -62,9 +62,9 @@ other controls
 notice: while this program does not contain conventional “horror” elements, themes of liminality, isolation and escapism may still evoke unsettling feelings or generally be difficult topics to some so please, explore with caution."
 wallpaper_park,Parc
 photo_mode_exit,Éteindre Caméra
-world_nurture,Digital Nurture
+world_nurture,Entretient Numérique
 menu_audio_ambience,Ambiance
-credits_dreamers_alt,fishlings
+credits_dreamers_alt,poissonnets
 world_school,École
 world_pipes,Pipedream
 world_desert,Désert
@@ -72,31 +72,31 @@ wallpaper_fish,Poisson
 menu_setting_general,Général
 menu_nav_cancel,Annuler
 menu_nav_back,Retour
-world_parking_lot,Murky Lot
+world_parking_lot,Parking Obscur
 <!MissingKey:44:total word count     (german)>,total de mots     (allemand)
 world_quarters,Quartiers
 wallpaper_concrete,Béton
-world_bryce_3d,Astral Frequency
+world_bryce_3d,Fréquence Astrale
 credits_other,autre
 signal_reset_afterthought,Tu l'as tuée.
-wallpaper_foam,Foam
-world_normal,Normal Tree
+wallpaper_foam,Mousse
+world_normal,Arbre à Normales
 wallpaper_indust,Industriel
 world_metro,Gare
 menu_new_save_warning,Tu es sûre...?
 menu_next_wallpaper,Fond d'écran suivant
 wallpaper_stairs,Escaliers
 world_snowy_quarter,Quartiers enneigés
-apophenia,apophenia
+apophenia,apophénie
 <!MissingKey:59:evil_nia>,evil_nia
 wallpaper_powerline,Haute Tension
 menu_new_save_reset,Réinitialiser
-world_warehouse,Warehouse
-world_swing,Rose Swing
-world_apartment_balcony,Apartment Overlook
+world_warehouse,Entrepôt
+world_swing,Rose et Balançoire
+world_apartment_balcony,Vue d'Appartement
 world_bedroom,Chambre
 <!MissingKey:66:a small dream explorer.>,un petit explorateur de rêves.
-menu_nav_apply,Appliquer
+menu_nav_apply,OK
 phone_signal_found,Connexion Établie
 wallpaper_tree,Arbre
 world_dandelion,Pissenlit
@@ -104,40 +104,40 @@ menu_option_camera_invert_x,Inverser Caméra Horizontale
 menu_audio_sfx,Sons
 menu_option_camera_invert_y,Inverser Caméra Verticale
 <!MissingKey:74:nophenia: original soundtrack>,nophenia: bande son originale
-world_ash,Cendre Rouge
+world_ash,Cendres Rouge
 <!MissingKey:76:Zoom Out>,Dézoom
 credits_russian,russe
-world_beach,Shore
+world_beach,Rivage
 credits_music,musique
 wallpaper_road,Route
 wallpaper_nature,Nature
-world_blocks,Cubic Meadows
+world_blocks,Prairies Cubiques
 world_nurture_alt,Temps d'écran
 location_random_18,Simulation
 location_random_19,Personne
 keyboard_gamepad_up,haut
 menu_audio_master,Tout
 location_random_14,Sang
-menu_option_open_snapshots,Gallerie
+menu_option_open_snapshots,Galerie
 location_random_15,Fils
 location_random_16,Art
-location_random_17,Apophenia
-menu_option_fullscreen,Plein écran
-location_random_10,Endroit Silencieux
-location_random_11,Endroit Magnifique
+location_random_17,Apophénie
+menu_option_fullscreen,Plein Écran
+location_random_10,Endroit Calme
+location_random_11,Bel Endroit
 location_random_12,Au Loin
 location_random_13,Chair
 menu_option_filter,Filtre Écran
-menu_setting_wallpaper_alt,Alter Flesh
+menu_setting_wallpaper_alt,Chair Alt
 world_realistic_field,Champs Réalistes
 <!MissingKey:101:songs for a small dream explorer.>,musique pour un petit explorateur.
 <!MissingKey:102:this game ####### SUCKS.>,ce jeu est ###### de NUL.
 menu_title_settings,Paramètres
-world_spider_lily,Spider Lilies
+world_spider_lily,Lys-Araignées
 world_flower_field,Champ de Fleurs
-menu_nav_select,Séléctionner
+menu_nav_select,Choisir
 world_clocks,Temps
-world_garage_block,Garage Settlement
+world_garage_block,Garages Coloniaux
 menu_nav_options,Options
 menu_setting_photo_mode,Caméra
 signal_reset_afterthought_alt_006,Tu nous a tués tous les deux.
@@ -147,68 +147,68 @@ signal_reset_afterthought_alt_004,Tu as brisé notre promesse.
 world_fog_alt,Brouillard...?
 signal_reset_afterthought_alt_005,Tu as pris notre vie.
 signal_reset_afterthought_alt_002,Meurtrier.
-world_greenhouse_alt,Winter Eve Garden
+world_greenhouse_alt,Jardin du soir d'Hiver
 wallpaper_sunflowers,Tournesols
 signal_reset_afterthought_alt_003,Monstre.
-world_snowy_street_after,Forgotten Residence
+world_snowy_street_after,Résidence Oubliée
 menu_setting_new_save,Oublier
 menu_previous_wallpaper,Fond d'écran précédent
-<!MissingKey:124:sit>,sit
-photo_mode_ascend_descend,Descend / Ascend
-world_waterpark,Waterpark
+<!MissingKey:124:sit>,s'asseoir
+photo_mode_ascend_descend,Descendre / Monter
+world_waterpark,Parc Aquatique
 menu_title_display,Affichage
-world_backrooms,Recursive Rooms
+world_backrooms,Pièces Récursives
 menu_setting_cat,Chaton
 wallpaper_cliff,Falaise
 world_fog,Brouillard
-world_end_alt,Another Home…
+world_end_alt,Une Autre Maison…
 location_random_08,Fin
 menu_option_aa,Anti Aliasing
-menu_setting_info_alt,Manifesto
+menu_setting_info_alt,Manifeste
 <!MissingKey:136:total word count  (english)>,total de mots  (anglais)
 <!MissingKey:137:total word count     (japanese)>,total de mots     (japonais)
-world_park,Park
+world_park,Parc
 signal_reset_afterthought_alt,"Tu le savais, et pourtant tu l'as tuée."
-<!MissingKey:140:Rainy Meadows >,Rainy Meadows
-<!MissingKey:141:porting>,porting
-<!MissingKey:142:Reverie Plains>,Reverie Plains
+<!MissingKey:140:Rainy Meadows >,Prairies Pluvieuses
+<!MissingKey:141:porting>,portage
+<!MissingKey:142:Reverie Plains>,Plaines de Rêve
 world_prototype,Forêt Prototype
-world_overlook,Rainy Homeside
+world_overlook,Alentours Pluvieux
 menu_setting_cat_alt,Chat
 keyboard_space,Espace
 <!MissingKey:147:total word count      (russian)>,total de mots      (russian)
 credits_emotional_support,support émotionnel
-menu_option_widescreen,Étirer l'écran
+menu_option_widescreen,Étirer Écran
 world_frutiger_aero,Frutiger Aero
 keyboard_gamepad_down,bas
 wallpaper_transparent,Transparent
-world_snowy_park,Cold Path
+world_snowy_park,Sentier Hivernal
 world_bedroom_alt,Safe Space
-world_concrete,Concrete Monoliths
+world_concrete,Monolithes en Béton
 wallpaper_flowers_red,Fleurs Rouges
 credits_everything,tout
 keyboard_gamepad_right,droite
 menu_option_camera_sensitivity,Sensibilité Caméra
-<!MissingKey:160:Zoom In>,Zoomer
+<!MissingKey:160:Zoom In>,Zoom
 menu_setting_wallpaper,Fond d'écran
 keyboard_shift,Shift
-menu_setting_display_alt,Occipital Modifier
+menu_setting_display_alt,Modificateur Occipital
 menu_nav_close,Fermer
 location_random_32,Tragédie
-location_random_33,Thorns
-world_snowy_street,Snowy Residence
+location_random_33,Épines
+world_snowy_street,Résidence Enneigée
 world_lavender,Lavende
-location_random_30,Unforeseen Beauty
+location_random_30,Beauté Imprévue
 location_random_31,Vie
 location_random_34,Murs
 start_game_notice_00,Appuyez sur
 photo_mode_actions,Sourire / Hurler
 location_random_35,Fractures
 wallpaper_office,Bureau
-start_game_notice_01,Une touche
+start_game_notice_01,Une
 location_random_09,Stream
 world_end,Fin
-start_game_notice_03,Pour Continuer
+start_game_notice_03,Touche Pour Continuer
 world_pink_beach,Plage Rose
 location_random_07,Inconnu
 photo_mode_reset,Réinitialiser Caméra
@@ -226,20 +226,20 @@ location_random_01,Anges
 location_random_27,Cet Endroit...
 world_hills,Collines
 location_random_00,Paradis
-location_random_26,False Memory
+location_random_26,Faux Souvenir
 location_random_21,Null
 location_random_20,Artificiel
-location_random_23,Afterlife
+location_random_23,AprèsVie
 location_random_22,Brutalisme
-menu_option_gamepad_use_rumble,Utiliser Vibrations
+menu_option_gamepad_use_rumble,Vibrations
 start_legal,Tous droits réservés.
-world_snowy_street_after_alt,Floral Residence
-location_random_29,Bleak Future
+world_snowy_street_after_alt,Résidence Florale
+location_random_29,Futur Lugubre
 location_random_28,Endroit Oublié
 phone_no_signal,Aucun Signal
-menu_exit_end_game,Terminer le Programme
+menu_exit_end_game,Fin Programme
 <!MissingKey:209:evil_nia_alt>,evil_nia_alt
-<!MissingKey:210:i ####### hate this game>,i ####### hate this game
+<!MissingKey:210:i ####### hate this game>,Je hais ce ###### de jeu
 world_sunflower,Tournesols
 wallpaper_forest,Forêt
 menu_option_vsync,VSync
@@ -247,10 +247,10 @@ phone_date_format,%dd/%mm/??
 world_maze,Labirynthe
 wallpaper_swan,Cygne
 menu_setting_audio,Audio
-world_homeside,Homeside,
-menu_setting_audio_alt,Transitional Auditorium
-world_sewer,Gutter
-wallpaper_blue_skies,Ciels
+world_homeside,Foyer,
+menu_setting_audio_alt,Auditorium Transitionnel
+world_sewer,Caniveau
+wallpaper_blue_skies,Cieux
 world_mars,Lune Rouge
 wallpaper_butterfly,Pappillon
 menu_cat_meow,Miaou!
@@ -261,12 +261,12 @@ wallpaper_moonlit_ta,Clair de Lune
 credits_b,"en mémoire de [url=https://www.thetrevorproject.org?ref=burntfishie]Charlotte[/url]
 &
 [url=https://www.instagram.com/winters_eve__/]Winter[/url]"
-credits_c,until we'll meet again...
-<!MissingKey:231:Bloody Torture Chamber>,Bloody Torture Chamber
+credits_c,jusqu'à notre prochaine rencontre...
+<!MissingKey:231:Bloody Torture Chamber>,Chambre de Torture Sanglante
 credits_german,allemand
 credits_a,et merci à TOI d'avoir exploré <3
 credits_d,tu as fait de ce monde un endroit meilleur
-menu_option_auto_run,Auto Run
+menu_option_auto_run,Lancer Auto
 world_bed,Lit d'Hopital
 <!MissingKey:237:lane (emiwa)>,lane (emiwa)
 menu_title_credits,Crédits
