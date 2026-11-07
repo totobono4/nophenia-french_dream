@@ -29,37 +29,6 @@ menu_audio_mono_sound,Son Mono
 world_neighbourhood,Voisinage
 menu_audio_music,Musique
 wallpaper_beach,Plage
-<!MissingKey:30:explore atmospheric dreams of vagrant but familiar memories.>,"explore atmospheric dreams of vagrant but familiar memories.
-
-there is …
-
-...no game. you walk around and explore brutalist but also dream-like ​environments​.
-
-...a dedicated sit [C] and howl [H] button because wolfgirls are super cool
-
-autres contrôles
-
-- bouger : [ZQSD] : [↑ ← ↓ →]
-
-- courir : [ CTRL ] : [SHIFT]
-
-- sauter : [ESPACE]
-
-- interagir : [ F ] : [Z] : [ENTRER] : [Clic Gauche]
-
-- pause : [ P ] : [ESC]
-
-(additionally, a camera can be accessed through the pause menu [ ESC ] allowing you to take pictures with…)
-
-   
-
-
-
-
-
-
-
-notice: while this program does not contain conventional “horror” elements, themes of liminality, isolation and escapism may still evoke unsettling feelings or generally be difficult topics to some so please, explore with caution."
 wallpaper_park,Parc
 photo_mode_exit,Éteindre Caméra
 world_nurture,Entretient Numérique
@@ -137,7 +106,7 @@ world_spider_lily,Lys-Araignées
 world_flower_field,Champ de Fleurs
 menu_nav_select,Choisir
 world_clocks,Temps
-world_garage_block,Garages Coloniaux
+world_garage_block,Stockage Communautaire
 menu_nav_options,Options
 menu_setting_photo_mode,Caméra
 signal_reset_afterthought_alt_006,Tu nous a tués tous les deux.

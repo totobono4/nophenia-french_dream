@@ -1,5 +1,7 @@
 {
-	"dependencies": [],
+	"dependencies": [
+		"totobono4-dream_translator_api"
+	],
 	"description": "You can now dream in french...",
 	"extra": {
 		"godot": {

@@ -5,14 +5,14 @@ const LOG_NAME := "totobono4-french_dream:Main"
 
 var mod_dir_path := ModLoaderMod.get_unpacked_dir().path_join(MOD_DIR)
 var translations_dir_path := mod_dir_path.path_join("lang")
+var resources_dir_path := mod_dir_path.path_join("resources")
 
-func _init() -> void:
-	ModLoaderLog.info("Init", LOG_NAME)
-	add_translations()
-	add_child(load(ModLoaderMod.get_unpacked_dir().path_join("totobono4-french_dream/french_dream.gd")).new())
-
-func add_translations() -> void:
-	ModLoaderMod.add_translation(translations_dir_path.path_join("french_dream.fr.translation"))
+var flag_fr := load(resources_dir_path.path_join("flag-fr-atlas.tres"))
+var translation : OptimizedTranslation = load(translations_dir_path.path_join("french_dream.fr.translation"))
 
 func _ready() -> void:
-	ModLoaderLog.info("Ready", LOG_NAME)
+	var mods = ModLoader.get_children()
+	for mod in mods:
+		match mod.name:
+			"totobono4-dream_translator_api":
+				mod.add_dream_translation(flag_fr, translation)
